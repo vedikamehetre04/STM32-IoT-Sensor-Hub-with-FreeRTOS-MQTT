@@ -156,9 +156,3 @@ STM32-IoT-Sensor-Hub/
 │       └── esp8266.c
 └── README.md
 ```
-
----
-
-## Author
-
-Vedika Mehetre — Electronics & Communication Engineering
